@@ -1,0 +1,33 @@
+body{
+	
+	background-color: #1fe5bd;
+	background-repeat: no-repeat;
+
+}
+a.hh{
+	font-weight:;
+	font-family: Verdana, sans-serif;
+	float: left;
+	padding: 9px 17px;
+	text-decoration: none;
+	font-size: 19px;
+	color: white;
+}
+
+a.hh:hover{
+	color: #80ac7b;
+}
+@font-face{
+	font-family: "K2D-SemiBold";
+	src:url("K2D-SemiBold.eot");
+	src:
+	url("K2D-SemiBold.ttf")format("truetype");
+}
+h1.heading{
+	font-family:K2D-SemiBold;
+	color: #0b409c;
+	font-size: 40px;
+	position: relative;;
+	left: 2.8em;
+	top: 0.2em;
+}
